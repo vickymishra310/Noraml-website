@@ -1,4 +1,4 @@
-# Creating a Noraml-website using the html and css.
+# Creating a Normal-website using the html and css.
 
 ## Screenshort
 Hare we can see the webpage pictures..
